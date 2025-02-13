@@ -27,3 +27,8 @@ Giant Tiger is planning to open a new store in Essex and seeks to determine the 
 - **Cost Analysis**: Maptitude helped assess the real estate landscape, supporting the decision to choose Essex for its favorable operating and leasing costs. 
 
 Through the use of **Maptitude**, we were able to make data-driven decisions for the optimal store location based on the combination of population size, supply chain logistics, competition, and real estate costs.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
